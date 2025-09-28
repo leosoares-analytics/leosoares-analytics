@@ -27,3 +27,11 @@
   <a href="https://www.linkedin.com/in/freitassleonardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<!--
+Links:
+    Emojis:
+        https://emojipedia.org/en/search?q=phone
+    Badges:
+        https://dev.to/envoy_/150-badges-for-github-pnk
+-->
