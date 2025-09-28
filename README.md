@@ -3,19 +3,23 @@
 🔭 Aspiring Data Scientist sharing my projects and learnings in tech<br/>
 🌱 Currently learning about data analytics and machine learning<br/>
 🏦 Graduated in [Mechanical Engineering](https://www.puc-campinas.edu.br/)<br/>
-Softwares used:
+🧑‍💻 Softwares used:
+
 <div align="left">
     <img src="https://github.com/user-attachments/assets/dcd85414-d89c-4c60-bff5-2f9c2326120f" width="40px" /> <!-- Logo PBI -->
-    <img src="https://github.com/user-attachments/assets/e4cb7d67-634e-47ad-b4f6-eaaf629d28df" width="40px" /> <!-- Logo Python MUDAR -->
+    <img src="https://github.com/user-attachments/assets/f85b1d03-516b-4ebc-ba07-211fed225f52" width="40px" /> <!-- Logo Python -->
     <img src="https://github.com/user-attachments/assets/dc2ca1e9-2fa7-4d55-b2aa-477d6ec07040" width="40px" /> <!-- Logo SQL -->
     <img src="https://github.com/user-attachments/assets/d3cafe11-c749-41b6-a7c2-c7104e7eda72" width="40px" /> <!-- Logo Excel -->
 </div>
 
 <!-- <img width="699" height="699" alt="Image" src="https://github.com/user-attachments/assets/dcd85414-d89c-4c60-bff5-2f9c2326120f" /> 
-     <img width="2560" height="758" alt="Image" src="https://github.com/user-attachments/assets/e4cb7d67-634e-47ad-b4f6-eaaf629d28df" />
+     <img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f85b1d03-516b-4ebc-ba07-211fed225f52" />
      <img width="218" height="232" alt="Image" src="https://github.com/user-attachments/assets/dc2ca1e9-2fa7-4d55-b2aa-477d6ec07040" />
      <img width="2203" height="2050" alt="Image" src="https://github.com/user-attachments/assets/d3cafe11-c749-41b6-a7c2-c7104e7eda72" />
 -->
+
+📞 Contact me:
+
 <div> 
 
   <a href="https://discord.com/users/leon9w9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
