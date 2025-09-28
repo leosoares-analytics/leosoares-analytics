@@ -8,7 +8,7 @@
 <div align="left">
     <img src="https://github.com/user-attachments/assets/dcd85414-d89c-4c60-bff5-2f9c2326120f" width="40px" /> <!-- Logo PBI -->
     <img src="https://github.com/user-attachments/assets/f85b1d03-516b-4ebc-ba07-211fed225f52" width="40px" /> <!-- Logo Python -->
-    <img src="https://github.com/user-attachments/assets/1a9995d2-7995-417c-956e-ef4b16d49057" width="40px" /> <!-- Logo SQL -->
+    <img src="https://github.com/user-attachments/assets/1a9995d2-7995-417c-956e-ef4b16d49057" width="80px" /> <!-- Logo SQL -->
     <img src="https://github.com/user-attachments/assets/d3cafe11-c749-41b6-a7c2-c7104e7eda72" width="40px" /> <!-- Logo Excel -->
 </div>
 
