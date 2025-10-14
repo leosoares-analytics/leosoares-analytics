@@ -17,6 +17,8 @@
      <img width="600" height="315" alt="Image" src="https://github.com/user-attachments/assets/1a9995d2-7995-417c-956e-ef4b16d49057" />
      <img width="2203" height="2050" alt="Image" src="https://github.com/user-attachments/assets/d3cafe11-c749-41b6-a7c2-c7104e7eda72" />
 -->
+📂​ All Data Analysis (GitHub List):
+[Data Analysis List](https://github.com/stars/leosoares-analytics/lists/analise-de-dados)
 
 📞 Contact me:
 
