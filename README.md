@@ -1,6 +1,6 @@
 ## Hey, I'm Leonardo Soares and welcome to my profile! 👋 🖖
 
-🔭 Aspiring Data Scientist sharing my projects and learnings in tech<br/>
+🔭 Aspiring Data Analyst sharing my projects and learnings in tech<br/>
 🌱 Currently learning about data analytics and machine learning<br/>
 🏦 Graduated in [Mechanical Engineering](https://www.puc-campinas.edu.br/)<br/>
 🧑‍💻 Softwares used:
